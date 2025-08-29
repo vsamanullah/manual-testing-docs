@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a comprehensive collection of resources, templates, and examples for **manual software testing**. It is designed to help testers—from beginners to professionals—organize, plan, and execute effective test cases to ensure software quality.
+This repository is a comprehensive collection of resources, templates, and examples for **manual software testing**. It is designed to help testers, from beginners to professionals—organize, plan, and execute effective test cases to ensure software quality.
 
 ## Contents
 
