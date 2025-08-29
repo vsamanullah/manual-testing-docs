@@ -1,0 +1,10 @@
+site_name: Manual Testing Guide
+theme:
+  name: readthedocs  # This gives a modern sidebar navigation
+
+nav:
+  - Home: index.md
+  - Trainings:
+      - Manual Testing:
+          - manual_testing.md
+          - Course Overview: manual_testing/course_overview.md
