@@ -8,8 +8,6 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
-theme:
-  name: readthedocs  # This gives a modern sidebar navigation
 
 nav:
   - Home: index.md
