@@ -18,21 +18,12 @@ For a detailed breakdown of the course topics, check out the [Course Overview](c
     <th>Sub Topic</th>
   </tr>
   <tr>
-    <td rowspan="6"><b><a href="Introduction to Software Testing">Introduction to Software Testing</a></b></td>    
+    <td rowspan="6"><b><a href="manual_testing_fundamentals">Introduction to Software Testing</a></b></td>    
   </tr>
   <tr>
-    <td><a href="What is Software Testing?">What is Software Testing?</a></td>
+    <td><a href="what_is_software_testing?">What is Software Testing?</a></td>
   </tr>
   <tr>
-    <td><a href="Why Testing is Important">Why Testing is Important</a></td>
+    <td><a href="why_testing_is_important">Why Testing is Important</a></td>
   </tr>
-  <tr>
-    <td><a href="Difference Between Manual and Automated Testing">Difference Between Manual and Automated Testing</a></td>
-  </tr>
-  <tr>
-    <td><a href="Software Development Life Cycle (SDLC)">Software Development Life Cycle (SDLC)</a></td>
-  </tr> 
-  <tr>
-    <td><a href="Testing Life Cycle (STLC)">Testing Life Cycle (STLC)</a></td>
-  </tr> 
 </table>

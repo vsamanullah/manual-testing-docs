@@ -13,3 +13,7 @@ nav:
   - Home: index.md
   - Course Topics:
       - Course Topics: course_overview.md
+  - Introduction to Software Testing:
+      - Introduction to Software Testing & Manual Testing Fundamentals: manual_testing_fundamentals.md
+      - What is Software Testing: what_is_software_testing.md
+      - Why Software Testing is Important: why_testing_is_important.md
