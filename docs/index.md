@@ -26,4 +26,13 @@ For a detailed breakdown of the course topics, check out the [Course Overview](c
   <tr>
     <td><a href="why_testing_is_important">Why Testing is Important</a></td>
   </tr>
+  <tr>
+    <td><a href="Difference_Between_Manual_and_Automated_Testing">Difference Between Manual and Automated Testing</a></td>
+  </tr>  
+  <tr>
+    <td><a href="Software_Development_LifeCycle">Software Development Life Cycle (SDLC)</a></td>
+  </tr>  
+  <tr>
+    <td><a href="Software_Testing_LifeCycle">Software Testing Life Cycle (STLC)</a></td>
+  </tr> 
 </table>

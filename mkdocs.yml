@@ -16,4 +16,7 @@ nav:
   - Introduction to Software Testing:
       - Introduction to Software Testing & Manual Testing Fundamentals: manual_testing_fundamentals.md
       - What is Software Testing: what_is_software_testing.md
-      - Why Software Testing is Important: why_testing_is_important.md
+      - Difference Between Manual and Automated Testing: Difference_Between_Manual_and_Automated_Testing.md
+      - Software Development Life Cycle (SDLC): Software_Development_LifeCycle.md
+      - Software Testing Life Cycle (STLC): Software_Testing_LifeCycle.md
+
